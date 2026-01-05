@@ -1,0 +1,18 @@
+{
+    "name": "plasma-lunar-marketplace",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "dev": "turbo run dev",
+        "build": "turbo run build",
+        "lint": "turbo run lint",
+        "type-check": "turbo run type-check"
+    },
+    "devDependencies": {
+        "turbo": "^1.11.0"
+    },
+    "engines": {
+        "node": ">=18.0.0",
+        "pnpm": ">=8.0.0"
+    }
+}
